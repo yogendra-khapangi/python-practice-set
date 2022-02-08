@@ -1,0 +1,13 @@
+name=["my","name","is","yogendra","khapangi","magar",34,76]
+print(name)
+print(name[5])
+print(name.pop(2))
+print(name.append("hello"))
+print(name)
+name[1]="symbol"
+print(name)
+num=[1,3,4,5,4,3,5,6,7,3,3,5,]
+print(num.sort())
+print(num)
+p=len(name)
+print(p)

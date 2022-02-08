@@ -1,0 +1,22 @@
+detial={
+    "name":"yogendra",
+    "age":20,
+    "adderss":"mamling",
+    "class":"bachelor"
+
+}
+b={"hari","ram","yogendra","khapagni"}
+print(detial)
+print(detial.keys())
+print(detial.values())
+print(type(detial))
+print(type(b))
+detial["age"]=19
+detial["color"]="white"
+print(detial)
+b.pop()
+b.add("mareeeeeee")
+print(b)
+change=str(detial)
+print(change)
+print(type(change))
